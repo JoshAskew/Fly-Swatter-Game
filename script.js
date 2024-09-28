@@ -47,7 +47,7 @@ function addClickEventToItems() {
 }
 
 function startRandomSelection() {
-    randomSelectionInterval = setInterval(selectRandomGridItem, 2000);
+    randomSelectionInterval = setInterval(selectRandomGridItem, 800);
 }
 
 function startTimer(duration) {
